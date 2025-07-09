@@ -1,0 +1,5 @@
+NumPy = Numeric Python
+
+NumPy array: all values in a numpy array have to be of the same data type
+
+data type of a NumPy array: n-darray = n-dimensional array
